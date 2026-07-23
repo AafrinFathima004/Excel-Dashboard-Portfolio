@@ -4,7 +4,7 @@
 
 Welcome to my **Excel Dashboard Portfolio**!
 
-This repository contains three interactive Excel dashboard projects created using Microsoft Excel. Each project demonstrates my ability to clean data, analyze datasets, create Pivot Tables, build interactive dashboards, and present business insights through data visualization.
+This repository showcases three interactive Excel dashboard projects developed using Microsoft Excel. These projects demonstrate my ability to clean data, analyze datasets, create Pivot Tables, and build interactive dashboards that provide meaningful business insights.
 
 ---
 
@@ -95,16 +95,15 @@ Analyze coffee shop sales data to understand revenue, product performance, and o
 
 ## 📂 Repository Structure
 
-```
+```text
 Excel-Dashboard-Portfolio
 │
 ├── Bike Sales Dashboard.xlsx
 ├── Sales Performance Dashboard.xlsx
 ├── Coffee Shop Sales Dashboard.xlsx
-├── Images
-│   ├── bike-sales-dashboard.png
-│   ├── sales-performance-dashboard.png
-│   └── coffee-shop-dashboard.png
+├── bike-sales-dashboard.png
+├── sales-performance-dashboard.png
+├── coffee-shop-sales-dashboard.png
 └── README.md
 ```
 
@@ -121,7 +120,6 @@ Excel-Dashboard-Portfolio
 ### Sales Performance Dashboard
 
 ![Sales Performance Dashboard](sales-performance-dashboard.png)
-
 
 ---
 
@@ -149,8 +147,4 @@ I am an Electronics and Communication Engineering graduate with a strong interes
 
 ---
 
-## ⭐ Connect
-
-If you have any feedback or suggestions, feel free to connect with me.
-
-Thank you for visiting my portfolio!
+⭐ Thank you for visiting my portfolio!
