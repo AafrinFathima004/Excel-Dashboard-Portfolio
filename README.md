@@ -114,21 +114,20 @@ Excel-Dashboard-Portfolio
 
 ### Bike Sales Dashboard
 
-![Bike Sales Dashboard](./Bike Sales Dashboard image.png)
-
+![Bike Sales Dashboard](bike-sales-dashboard.png)
 
 ---
 
 ### Sales Performance Dashboard
 
-![Sales Performance Dashboard](./Sales Performance Dashboard image.png)
+![Sales Performance Dashboard](sales-performance-dashboard.png)
 
 
 ---
 
 ### Coffee Shop Sales Dashboard
 
-![Coffee Shop Sales Dashboard](./Coffee Shop Sales Dashboard image.png)
+![Coffee Shop Sales Dashboard](coffee-shop-sales-dashboard.png)
 
 ---
 
